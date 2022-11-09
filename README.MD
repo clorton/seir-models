@@ -1,11 +1,13 @@
 # SEIR Models
 
-- [ ] Python - NumPy
-- [ ] Python - State Machines (NumPy)
+ABMs in various languages and with implementation choices.
+
 - [ ] C++
-- [ ] R
-- [ ] Julia
 - [ ] Clojure
 - [ ] F#
+- [ ] Julia
+- [ ] Python - NumPy
+- [ ] Python - State Machines (NumPy)
 - [ ] Python - PyCUDA
+- [ ] R
 - [ ] Rust
