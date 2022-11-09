@@ -8,4 +8,4 @@
 - [ ] Clojure
 - [ ] F#
 - [ ] Python - PyCUDA
-
+- [ ] Rust
