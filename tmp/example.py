@@ -1,9 +1,14 @@
+"""Try system definition with Numpy arrays for arguments."""
+
 #! /usr/bin/env python3
 
 import numpy as np
 import pandas as pd
 
+
 def system(t, a=1.0/512, b=0, c=-1.5, d=5):
+    """Real-world system (parameterized)."""
+
     result = a*(t**3) + b*(t**2) + c*t + d
     return result
 
